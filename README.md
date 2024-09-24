@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Harsh Yadav
+- **👋** Hi, I’m **Harsh Yadav**
 - **🚀 About Me** <br>
   I am a Computer Science Engineering student passionate about JAVA development and problem-solving. Currently in final year at DevBhoomi Uttarakhand University, I enjoy exploring new technologies and contributing to meaningful projects.
 - **🌱 I’m currently learning** <br>
-  . MERN stack development (MongoDB, Express.js, React.js, Node.js)
-  . Advanced JavaScript frameworks
+  . JAVA Development (JAVA, OOPs, DSA, Spring, SpringBoot,Docker)
+  . And other Java Development related Frameworks
   . Machine Learning algorithms
 **🛠 Skills** <br>
   Frontend Development: HTML, CSS, JavaScript, React.js, Bootstrap 5
