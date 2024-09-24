@@ -2,9 +2,9 @@
 - **🚀 About Me** <br>
   I am a Computer Science Engineering student passionate about JAVA development and problem-solving. Currently in final year at DevBhoomi Uttarakhand University, I enjoy exploring new technologies and contributing to meaningful projects.
 - **🌱 I’m currently learning** <br>
-  . JAVA Development (JAVA, OOPs, DSA, Spring, SpringBoot,Docker)
-  . And other Java Development related Frameworks
-  . Machine Learning algorithms
+  JAVA Development (JAVA, OOPs, DSA, Spring, SpringBoot,Docker)
+  And other Java Development related Frameworks
+  Machine Learning algorithms
 **🛠 Skills** <br>
   Frontend Development: HTML, CSS, JavaScript, React.js, Bootstrap 5
   Programming Languages: Java (Object-Oriented Programming), C Programming
