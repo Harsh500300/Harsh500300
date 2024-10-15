@@ -5,7 +5,7 @@
   JAVA Development (JAVA, OOPs, DSA, Spring, SpringBoot,Docker)
   And other Java Development related Frameworks
   Machine Learning algorithms <br>
-**🛠 Skills** <br>
+- **🛠 Skills** <br>
   Frontend Development: HTML, CSS, JavaScript, React.js, Bootstrap 5
   Programming Languages: Java (Object-Oriented Programming), C Programming
   Problem Solving: Algorithms, Data Structures
